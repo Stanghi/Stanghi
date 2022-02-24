@@ -13,10 +13,9 @@ I'm an Italin student
 No one (for the moment)
 
 ### 📧 Contact
-```
+
 Instagram = mattia_stangherlin
 email = stangherlin.matti@gmail.com
-```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanghi&show_icons=true)  
 
