@@ -1,13 +1,13 @@
-## 👋 About Stanghi
+# 👋 About Stanghi
 I'm an Italin student
 
-## 🌱 Skills
+# 🌱 Skills
 Bella zi
 
-## 💻 Project
+# 💻 Project
 Bella zi
 
-## 📧 Contact
+# 📧 Contact
 Bella fra
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanghi&show_icons=true)  
