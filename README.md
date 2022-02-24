@@ -3,7 +3,6 @@
 I'm an Italin student
 ```
 
-
 ### 🌱 Skills
 ```
 - Python
@@ -13,12 +12,10 @@ I'm an Italin student
 - C
 ```
 
-
 ### 💻 Project
 ```
 No one (for the moment)
 ```
-
 
 ### 📧 Contact
 ```
