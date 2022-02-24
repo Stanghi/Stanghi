@@ -1,6 +1,9 @@
 ## 👋 About Stanghi
 I'm an Italin student
 
+## 🌱 Skills
+Bella zi
+
 ## 💻 Project
 Bella zi
 
