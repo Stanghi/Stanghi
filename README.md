@@ -23,5 +23,4 @@ My dream is to work in the IT field since I was a child, and I will do everythin
 
 ## 📧 Contact me
 - Email = stangherlin.matti@gmail.com
-- Instagram = [mattia_stangherlin](https://www.instagram.com/mattia_stangherlin/)
 - Discord = Stanghi#3015
