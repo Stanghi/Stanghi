@@ -1,8 +1,11 @@
 ## 👋 About Stanghi
-I'm an Italin student.
-
 ```
-🌱 Skills
+I'm an Italin student.
+```
+
+
+## 🌱 Skills
+```
 - Python
 - HTML
 - CSS
@@ -10,13 +13,15 @@ I'm an Italin student.
 - C
 ```
 
+
+## 💻 Project
 ```
-💻 Project
 No one (for the moment)
 ```
 
+
+## 📧 Contact
 ```
-📧 Contact
 Instagram = mattia_stangherlin
 email = stangherlin.matti@gmail.com
 ```
