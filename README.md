@@ -13,4 +13,4 @@ No one (for the moment)
 
 ## 📧 Contact
 Instagram = mattia_stangherlin
-email = [stangherlin.matti@gmail.com](https://mail.google.com/mail/u/1/#inbox)
+email = stangherlin.matti@gmail.com
