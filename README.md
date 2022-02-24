@@ -1,3 +1,5 @@
+![Banner](https://github.com/Stanghi/Stanghi/blob/main/banner.png)
+
 ## 👋 About me
 I'm an Italin student
 
