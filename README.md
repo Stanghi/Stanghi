@@ -14,6 +14,4 @@ I'm an Italin student
 ## 📧 Contact me
 - email = stangherlin.matti@gmail.com
 - Instagram = [mattia_stangherlin](https://www.instagram.com/mattia_stangherlin/)
-- Discord = Stanghi#3015
-- 
-
+- Discord = [Stanghi#3015](https://discord.com/)
