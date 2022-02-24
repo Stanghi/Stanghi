@@ -1,4 +1,4 @@
-# 👋 About Stanghi
+## 👋 About me
 I'm an Italin student
 
 ## 🌱 Skills I'm learing
