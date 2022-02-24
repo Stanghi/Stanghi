@@ -1,20 +1,16 @@
-### 👋 About Stanghi
+## 👋 About Stanghi
 I'm an Italin student
 
-
-### 🌱 Skills
+## 🌱 Skills
 - Python
 - HTML
 - CSS
 - JS
 - C
 
-### 💻 Project
+## 💻 Project
 No one (for the moment)
 
-### 📧 Contact
-
+## 📧 Contact
 Instagram = mattia_stangherlin
-email = stangherlin.matti@gmail.com
-
-
+email = [stangherlin.matti@gmail.com](https://mail.google.com/mail/u/1/#inbox)
