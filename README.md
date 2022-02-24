@@ -1,14 +1,25 @@
 ## 👋 About Stanghi
-I'm an Italin student
+I'm an Italin student.
 
-## 🌱 Skills
-Bella zi
+```
+🌱 Skills
+- Python
+- HTML
+- CSS
+- JS
+- C
+```
 
-## 💻 Project
-Bella zi
+```
+💻 Project
+No one (for the moment)
+```
 
-## 📧 Contact
-Bella fra
+```
+📧 Contact
+Instagram = mattia_stangherlin
+email = stangherlin.matti@gmail.com
+```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanghi&show_icons=true)  
 
