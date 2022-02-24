@@ -1,7 +1,7 @@
 ![Banner](https://github.com/Stanghi/Stanghi/blob/main/banner.png)
 
 ## ✌ About me
-I'm an Italian student at the University of Rome La Sapienza.
+Hi, my name is Mattia Stangherlin. I'm an Italian student at the University of Rome La Sapienza.
 
 In high school, I studied computer science and telecommunication, which gave me, in addition to a great passion for this world, a good programming basis of HTML, CSS, JS, and C.
 
