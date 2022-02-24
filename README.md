@@ -17,5 +17,4 @@ No one (for the moment)
 Instagram = mattia_stangherlin
 email = stangherlin.matti@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanghi&show_icons=true)  
 
