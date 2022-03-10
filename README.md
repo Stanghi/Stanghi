@@ -17,6 +17,7 @@ But first, I hope to get my degree. lol
 
 ## 🌱 Skills I'm learing
 - `Python`
+- `Java`
 - `HTML`
 - `CSS`
 - `JS`
